@@ -24,6 +24,22 @@ After that, enter the Poetry environment by invoking the poetry's shell using th
 
 Edit the `pyproject.toml` file to update the project name, description, and other metadata.
 
+## Structure
+
+The repository has the following structure:
+
+- `bin/`: scripts and executables for command line use
+- `data/`: data files and datasets
+- `src/`: source code and notebooks
+- `tests/`: test files for the source code
+- `pyproject.toml`: project metadata and dependencies
+- `LICENSE`: license information
+- `CHANGELOG.md`: log of notable changes
+- `README.md`: project information and instructions
+
+Feel free to modify the structure to fit your needs.
+  
+  
 ## License
 
 Files in this repository are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

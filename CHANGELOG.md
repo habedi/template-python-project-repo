@@ -7,6 +7,7 @@ All important changes to this project will be documented in this file. The forma
 ### Added
 - Initial setup of the project.
 - Added a README file with basic information about the project.
+- Added a section about the structure of the repository to the README file.
 
 ### Changed
 - Updated README with a more detailed description of the project.
