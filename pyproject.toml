@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "template-python-project-repo"
 version = "0.1.0"
-description = ""
+description = "A template for a data science or machine learning project in Python."
 authors = ["Hassan Abedi <hassan.abedi.t@gmail.com>"]
 readme = "README.md"
-packages = [{include = "template_python_project_repo"}]
+packages = [{ include = "template_python_project_repo" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
