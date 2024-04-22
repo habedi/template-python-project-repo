@@ -3,8 +3,9 @@
 [![Tests](https://github.com/habedi/template-python-project-repo/actions/workflows/tests.yml/badge.svg)](https://github.com/habedi/template-python-project-repo/actions/workflows/tests.yml)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://github.com/habedi/template-python-project-repo)
 
-This repository is as a template for starting Python projects. It includes a basic structure for organizing the code,
-data, and notebooks.
+This repository is as a template for starting Python projects. It includes a basic structure for organizing the things like code,
+data, and notebooks, as well as a configuration file for managing the dependencies using Poetry. The repository also
+includes a GitHub Actions workflow for running tests on the codebase.
 
 I made it mainly for my personal and professional machine learning data science projects, but feel free to use it
 as a starting point for your own projects if you find it useful.
